@@ -1,0 +1,9 @@
+body {
+    margin: 0 !important;
+}
+
+:host,
+:host * {
+    font: inherit !important;
+    font-size: inherit !important;
+}
